@@ -8,16 +8,16 @@ Welcome to my GitHub profile README — a small, curated snapshot of who I am, w
 
 ---
 
-## About me
+## About me **
 - 🔭 I’m currently working on interesting projects in web & automation.
 - 🌱 I’m learning more about backend systems and cloud deployments.
 - 👯 I’m open to collaborating on open source and side projects.
 - 💬 Ask me about JavaScript, Python, or automating developer workflows.
-- ⚡ Fun fact: I love building small tools that save a lot of time.
+- ⚡ Fun fact: I love building small  tools that save a lot of time.
 
 ---
 
-## Tech Stack & Tools
+## Tech Stack & Tools **
 - Languages: JavaScript (Node.js), TypeScript, Python
 - Web: React, Next.js, Express
 - Cloud & DevOps: Docker, GitHub Actions, AWS (EC2, S3)
@@ -79,8 +79,8 @@ console.log(greet('tamed29'));
 
 ---
 
-## Contact & Socials
-- Email: your.email@example.com
+## Contact & Socials **
+- Email: tamirardereje53@gmail.com
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
 - Website: https://your-website.example
