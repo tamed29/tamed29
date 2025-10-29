@@ -1,65 +1,68 @@
-# Hi, I'm tamed29! 👋
+# 👋 Hi, I'm Tamirat Dereje — aka [tamed29](https://github.com/tamed29)
 
 <p align="center">
-  <a href="https://github.com/tamed29"><img alt="tamed29" src="https://avatars.githubusercontent.com/u/0?v=4" width="120" style="border-radius:50%"></a>
+  <a href="https://github.com/tamed29">
+    <img alt="tamed29" src="https://avatars.githubusercontent.com/u/0?v=4" width="130" style="border-radius:50%; box-shadow: 0 0 10px rgba(255,0,100,0.4);">
+  </a>
 </p>
 
-Welcome to my GitHub profile README — a small, curated snapshot of who I am, what I build, and how to reach me. This README is ready to drop into a repository named `tamed29` to become your GitHub profile README.
+> 🚀 Passionate about automation, backend systems, and crafting digital tools that make developers' lives easier.
 
 ---
 
-## About me **
-- 🔭 I’m currently working on interesting projects in web & automation.
-- 🌱 I’m learning more about backend systems and cloud deployments.
-- 👯 I’m open to collaborating on open source and side projects.
-- 💬 Ask me about JavaScript, Python, or automating developer workflows.
-- ⚡ Fun fact: I love building small  tools that save a lot of time.
+## 💡 About Me
+- 🔭 Working on **web automation** and **intelligent backend tools**
+- 🌱 Learning **Cloud Engineering** and **Scalable API design**
+- 💬 Ask me about **JavaScript, Python, or developer workflow automation**
+- ⚡ Fun fact: I love building small tools that save big amounts of time ⏱️
 
 ---
 
-## Tech Stack & Tools **
-- Languages: JavaScript (Node.js), TypeScript, Python
-- Web: React, Next.js, Express
-- Cloud & DevOps: Docker, GitHub Actions, AWS (EC2, S3)
-- Databases: PostgreSQL, MongoDB
-- Other: Redis, GraphQL, REST APIs, WebSockets
+## 🧰 Tech Stack
+<div align="center">
+
+**Languages:**  
+`JavaScript (Node.js)` · `TypeScript` · `Python`
+
+**Frameworks & Tools:**  
+`React` · `Next.js` · `Express` · `Docker` · `GitHub Actions` · `AWS (EC2, S3)`
+
+**Databases & APIs:**  
+`PostgreSQL` · `MongoDB` · `Redis` · `GraphQL` · `REST` · `WebSockets`
+
+</div>
 
 ---
 
-## GitHub Stats
-
-<!-- Hit counters and stats -->
+## 💪 Pro Box — My Developer Stride
 <p align="center">
-  <img alt="tamed29 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tamed29&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tamed29&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<div align="center">
+
+| 💼 Metric | 📊 Value |
+|------------|-----------|
+| 🏃 Stride (Days Active) | **120+** continuous days of coding |
+| 🔁 Push Count | **1,500+** commits pushed |
+| 💡 Repositories | **30+** public & private projects |
+| 💬 Lines of Code | **200,000+** lines written |
+| 🌍 Contributions | **Across 8+ major repos** |
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tamed29&show_icons=true&theme=radical&count_private=true" height="160"/>
   &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamed29&layout=compact&theme=radical" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamed29&layout=compact&theme=radical" height="160"/>
 </p>
-
-<!-- Optional streak / contribution graph (uncomment to use) -->
-<!--
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=tamed29&theme=radical"/>
-</p>
--->
 
 ---
 
-## Featured Projects
-- [Project One](https://github.com/tamed29/project-one) — short description of what it does and why it's cool.
-- [Project Two](https://github.com/tamed29/project-two) — another project; what problem it solves.
-- [Awesome Tool](https://github.com/tamed29/awesome-tool) — quick summary.
-
-(Replace the links above with your real repo links. Use the `pin` card if you want pinned repo cards from GitHub Readme Stats.)
-
-To show pinned repos dynamically:
-```
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=project-one&theme=radical)
-```
-
----
-
-## Quick Code Snippet
-Here’s a tiny example of a Node.js function I might use to greet a user:
+## 🧩 Quick Code Snippet
 
 ```js
 // greet.js
@@ -68,38 +71,3 @@ function greet(username) {
 }
 
 console.log(greet('tamed29'));
-```
-
----
-
-## Want this README as your profile?
-1. Create a new repository named exactly: `tamed29` (your GitHub username).
-2. Add a file named `README.md` with the contents of this file.
-3. Commit and push. GitHub will display this README on your profile automatically.
-
----
-
-## Contact & Socials **
-- Email: tamirardereje53@gmail.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
-- Website: https://your-website.example
-
-(Replace the placeholders above with your real contact links.)
-
----
-
-## Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamed29&color=brightgreen" alt="Profile views">
-</p>
-
----
-
-If you want, I can:
-- generate a custom SVG banner for the top,
-- add GitHub Actions that rotate quotes or show local time,
-- create pinned repo cards automatically,
-- or produce alternate themes/colors for the stats cards.
-
-Tell me which option you'd like and I’ll produce the full code/files for it.
