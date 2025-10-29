@@ -8,7 +8,7 @@
 
 ---
 
-## 💼 Pro Box — Live Developer Stats
+## 💼  Live Developer Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamed29&theme=radical" alt="Profile Summary" width="700"/>
