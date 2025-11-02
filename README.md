@@ -8,7 +8,7 @@
 
 ---
 
-## 💼 Live Developer Stats
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamed29&theme=radical" alt="Profile Summary" width="700"/>
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tamed29/tamed29/main/assets/language-bars.gif" width="700" alt="Language Distribution Graph" style="border-radius:12px; box-shadow:0 0 15px rgba(255,100,0,0.4);"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamed29&layout=compact&theme=radical&langs_count=6" width="700"/>
 </p>
 
 ---
@@ -63,12 +63,13 @@
 
 ---
 
-## 💬 Let's Connect!
+## 💬contact!
 
 <p align="center">
   <a href="https://github.com/tamed29"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:tamiratdereje@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/will_n0t"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tamirat-dereje"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tamiratdereje29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
