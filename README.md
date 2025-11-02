@@ -26,7 +26,7 @@
 
 ---
 
-## 🔥 My Longest Coding Streak
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Longest_Streak-23_days-orange?style=for-the-badge&logo=github" alt="Longest Streak Badge"/>
