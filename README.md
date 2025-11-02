@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamed29&layout=compact&theme=radical&langs_count=6" width="700"/>
+  <img src="https://raw.githubusercontent.com/tamed29/tamed29/main/assets/language-bars.gif" width="700" alt="Language Distribution Graph" style="border-radius:12px; box-shadow:0 0 15px rgba(255,100,0,0.4);"/>
 </p>
 
 ---
