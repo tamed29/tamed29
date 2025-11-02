@@ -15,7 +15,6 @@
 </p>
 
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=tamed29&show_icons=true&theme=radical&count_private=true" height="165"/>
 </p>
 
@@ -26,7 +25,20 @@
 
 ---
 
-## 🔥 My Longest Coding Streak
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-35%25-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-25%25-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamed29&layout=compact&theme=radical&langs_count=6" width="700"/>
+</p>
+
+---
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Longest_Streak-23_days-orange?style=for-the-badge&logo=github" alt="Longest Streak Badge"/>
