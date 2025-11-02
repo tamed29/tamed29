@@ -26,7 +26,7 @@
 
 ---
 
-
+## 🔥 My Longest Coding Streak
 
 <p align="center">
   <img src="https://img.shields.io/badge/Longest_Streak-23_days-orange?style=for-the-badge&logo=github" alt="Longest Streak Badge"/>
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tamed29/tamed29/main/19df5bb9-b494-47a4-aaac-b79b5043402b.png" alt="Longest Streak Highlight" width="700" style="border-radius:15px; box-shadow:0 0 20px rgba(255,100,0,0.5);"/>
+  <img src="https://raw.githubusercontent.com/tamed29/tamed29/main/assets/longest-streak.png" alt="Longest Streak Highlight" width="700" style="border-radius:15px; box-shadow:0 0 20px rgba(255,100,0,0.5);"/>
 </p>
 
 ---
@@ -51,10 +51,3 @@
 
 ---
 
-## 🧩 Quick Snippet
-
-```js
-function greet(username) {
-  return `Hello, ${username}! 👋 Welcome to my GitHub profile.`;
-}
-console.log(greet('tamed29'));
