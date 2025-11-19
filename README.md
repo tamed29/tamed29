@@ -5,7 +5,7 @@
 </p>
 
 > **Backend Engineer | Automation Enthusiast | Systems Builder**  
-> I specialize in building efficient backend systems, automation tools, cloud-ready applications, and modern web solutions focused on  performance and reliability.
+> I specialize in building efficient backend systems, automation tools, cloud-ready applications, and modern web solutions focused on performance and reliability.
 
 ---
 
@@ -17,89 +17,39 @@
 
 ---
 
-## 📊 GitHub Profile Overview
+## 🔥 Longest Streak Box
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamed29&theme=radical" width="820" />
-</p>
-
----
-
-## 📈 GitHub Stats (Auto-Updating)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamed29&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamed29&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
-## 🔥 Streak & Activity
-
-<p align="center">
-  <!-- Live Streak + Longest Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tamed29&theme=radical&hide_border=true" width="820" />
-</p>
-
-<p align="center">
-  <!-- Total Contribution Badge -->
-  <img src="https://img.shields.io/github/contributions/tamed29?color=orange&label=Total%20Contributions&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <!-- Longest Streak Custom Graphic -->
-  <img src="https://raw.githubusercontent.com/tamed29/tamed29/main/assets/longest-streak.png"
-       width="820"
-       style="border-radius:12px; box-shadow:0 0 18px rgba(255,100,0,0.45);" />
-</p>
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-35%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-25%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tamed29/tamed29/main/assets/language-bars.gif"
-       width="820"
-       style="border-radius:12px; box-shadow:0 0 15px rgba(255,150,0,0.3);" />
-</p>
+<div style="display:flex; justify-content:center; margin:20px 0;">
+  <div style="border:2px solid #FF6347; border-radius:12px; padding:20px; width:300px; text-align:center; background:linear-gradient(135deg, #1d1f21, #2a2c2e); box-shadow:0 0 20px rgba(255,99,71,0.5);">
+    <h3 style="color:#FF6347; margin-bottom:10px;">🔥 Longest Streak</h3>
+    <p style="font-size:28px; color:#fff; font-weight:bold;">
+      23 Days
+    </p>
+    <small style="color:#aaa;">Consecutive contributions without missing a day</small>
+  </div>
+</div>
 
 ---
 
 ## 🧰 Tech Stack
 
-### **Languages**
-JavaScript • TypeScript • Python
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin:20px 0;">
+  <div style="background:#FF6347; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(255,99,71,0.4);">JavaScript</div>
+  <div style="background:#6e5494; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(110,84,148,0.4);">TypeScript</div>
+  <div style="background:#3776AB; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(55,118,171,0.4);">Python</div>
 
-### **Frontend**
-React • Next.js • Tailwind CSS
+  <div style="background:#61DAFB; color:#000; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(97,218,251,0.4);">React</div>
+  <div style="background:#000; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);">Next.js</div>
+  <div style="background:#38B2AC; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(56,178,172,0.4);">Tailwind CSS</div>
 
-### **Backend**
-Node.js • Express
+  <div style="background:#339933; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(51,153,51,0.4);">Node.js</div>
+  <div style="background:#000; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);">Express</div>
 
-### **DevOps / Cloud**
-Docker • GitHub Actions • AWS
+  <div style="background:#2496ED; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(36,150,237,0.4);">Docker</div>
+  <div style="background:#2088FF; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(32,136,255,0.4);">GitHub Actions</div>
+  <div style="background:#FF9900; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(255,153,0,0.4);">AWS</div>
 
-### **Databases**
-PostgreSQL • MongoDB • Redis
-
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="https://github.com/tamed29"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:tamiratdereje@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/will_n0t"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/tamirat-dereje"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <i>“Code. Learn. Repeat. Every line makes you better.”</i>
-</p>
+  <div style="background:#336791; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(51,103,145,0.4);">PostgreSQL</div>
+  <div style="background:#47A248; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(71,162,72,0.4);">MongoDB</div>
+  <div style="background:#DC382D; color:white; padding:12px 20px; border-radius:12px; box-shadow:0 0 10px rgba(220,56,45,0.4);">Redis</div>
+</div>
