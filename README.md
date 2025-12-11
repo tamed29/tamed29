@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/26874389?v=4" width="130" style="border-radius:50%; box-shadow: 0 0 15px rgba(255,0,100,0.5);">
 </p>
 
-> 🚀 Developer passionate about automation,backend systems, and creating efficient tools that simplify life.
+> 🚀 Developer passionate about automation,backend systems, and creating  efficient tools that simplify life.
 
 ---
 
