@@ -47,7 +47,7 @@
 
 <!-- ======================== SECTION SEPARATOR ======================== -->
 <p align="center">
-  <img src="./assets/tech-divider.svg" width="60%" alt="section divider"/>
+  <img src="./assets/tech-divider.svg.png" width="60%" alt="section divider"/>
 </p>
 
 <!-- ======================== TECH STACK ======================== -->
@@ -69,14 +69,14 @@
 
 <!-- ======================== WAVY SEPARATOR ======================== -->
 <p align="center">
-  <img src="./assets/wave-separator.svg" width="70%" alt="section divider"/>
+  <img src="./assets/wave-separator.svg.png" width="70%" alt="section divider"/>
 </p>
 
 <!-- ======================== SKILLS (Progress Bars) ======================== -->
 <h2 align="center">📊 Skills Overview</h2>
 
 <p align="center">
-  <img src="./assets/skills-progress.svg" width="68%" alt="skills progress bars"/>
+  <img src="./assets/skills-progress.svg.png" width="68%" alt="skills progress bars"/>
 </p>
 
 <!-- Text fallback in case SVG fails -->
@@ -109,7 +109,7 @@
 
 <!-- Wave separator -->
 <p align="center">
-  <img src="./assets/wave-separator.svg" width="60%" alt="projects wave separator"/>
+  <img src="./assets/wave-separator.svg.png" width="60%" alt="projects wave separator"/>
 </p>
 
 <!-- ======================== FEATURED PROJECTS ======================== -->
@@ -132,7 +132,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%8B%9D%20Project%20Mentor-00FFD8?style=for-the-badge&logo=github"/>
 </p>
 <p align="center">
-  <img src=".assets/achievement-banner.svg" width="70%" alt="Achievements banner" />
+  <img src=".assets/achievement-banner.svg.png" width="70%" alt="Achievements banner" />
 </p>
 
 <!-- ======================== VISITOR COUNTER BADGE ======================== -->
