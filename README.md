@@ -24,7 +24,7 @@
 
 <!-- Wave separator -->
 <p align="center">
-  <img src="./assets/wave-separator.svg.png" width="84%" alt="wave separator"/>
+  <img src="./assets/wave-separator.svg." width="84%" alt="wave separator"/>
 </p>
 
 <!-- ======================== ABOUT ME / HERO CARD ======================== -->
