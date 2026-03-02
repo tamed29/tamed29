@@ -69,7 +69,7 @@
 
 <!-- ======================== WAVY SEPARATOR ======================== -->
 <p align="center">
-  <img src="./assets/wave-separator.svg.png" width="70%" alt="section divider"/>
+  <img src="./assets/wave-separator.svg." width="70%" alt="section divider"/>
 </p>
 
 <!-- ======================== SKILLS (Progress Bars) ======================== -->
