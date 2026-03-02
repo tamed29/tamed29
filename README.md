@@ -90,19 +90,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tamed29&show_icons=true&theme=vision-friendly-dark&count_private=true&border_radius=16&hide_title=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamed29&theme=vision-friendly-dark&hide_border=false" height="165"/>
 </p>
-<!-- Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamed29&theme=rogue&area=true&hide_border=true" width="91%" alt="GitHub Activity Graph"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamed29&theme=onestar&margin-w=15&margin-h=15&no-frame=true" height="160"/>
-</p>
-<!-- Stats auto-update, always dark/neon ready -->
 
-<!-- Wave separator -->
-<p align="center">
-  <img src="./assets/wave-separator.svg." width="60%" alt="projects wave separator"/>
-</p>
+
 
 <!-- ======================== FEATURED PROJECTS ======================== -->
 <h2 align="center">🚀 Featured Projects</h2>
