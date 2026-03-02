@@ -171,7 +171,7 @@
 
 <!-- ======================== SECTION SEPARATOR ======================== -->
 <p align="center">
-  <img src="./assets/tech-divider.svg.png" width="61%" alt="section divider" />
+  <img src="./assets/tech-divider.svg.png" width="51%" alt="section divider" />
 </p>
 
 <!-- ======================== ACHIEVEMENTS SECTION (MODERN BADGES) ======================== -->
