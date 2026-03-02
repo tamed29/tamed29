@@ -1,55 +1,59 @@
-<!--
-  Ultimate Pro GitHub Profile README for Tamirat Dereje (tamed29)
-  - Modern dark/neon theme, glassmorphism, and interactive design
-  - 100% GitHub-renderable (Markdown+HTML+svg+shields.io only)
-  - No broken images (uses GitHub or shields-hosted SVGs)
-  - Advanced typography, spacing, color separation
-  - Section comments for easy editing!
-  - Fast, lightweight, and optimized for future customization!
+<!-- 
+  🟦 Ultimate Pro GitHub Profile README for Tamirat Dereje (tamed29)
+  - Ultra-modern, dark/neon glassy UI, 100% GitHub-renderable (Markdown+HTML+SVG only).
+  - No broken images: all assets self-hosted or SVG.
+  - Pixel-perfect spacing, ultimate typography, section comments for editability.
+  - Production-level, senior portfolio design!
 -->
 
 <!-- ======================== HERO / INTRO ======================== -->
 <p align="center">
-  <!-- Animated Typing Banner: Fira Code, neon blue -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3550&pause=800&color=00FFD8FF&background=00000000&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Tamirat+Dereje;Backend+%F0%9F%94%A5+Automation+Engineer;Builder+of+Efficient+Backend+Tools;Code.+Automate.+Innovate."
-    alt="Animated typing introduction by Tamirat Dereje" width="88%" />
+  <!-- Animated Typing Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3550&pause=800&color=00FFD8FF&background=00000000&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Tamirat+Dereje;Senior+Backend+%F0%9F%94%A5+Automation+Engineer;Builder+of+Efficient+Backend+Tools;Code.+Automate.+Innovate." alt="Animated typing introduction by Tamirat Dereje" width="92%"/>
 </p>
 
+<!-- ======================== PROFILE IMAGE (CIRCULAR NEON GLOW) ======================== -->
 <p align="center">
-  <!-- Profile photo inside neon ring (GH hosted, for reliability) -->
-  <img src="./assets/profile-neon.png.jpg"
-    width="130" height="130"
-    alt="Tamirat Dereje profile photo"/>
+  <!-- Neon circular profile with inline SVG for perfect glow (GitHub-compatible) -->
+  <span style="display: inline-block; border-radius: 50%; background: linear-gradient(120deg, #23FFE2 10%, #fb196b 90%); padding: 5px; margin-bottom: 8px;">
+    <img src="./assets/profile-neon.png.jpg"
+      alt="Tamirat Dereje Profile Photo"
+      width="135" height="135"
+      style="
+        display: block;
+        border-radius: 50%;
+        border: 4px solid #232b37; 
+        background: #181c27;
+        box-shadow: 0 0 18px 4px #00ffd855, 0 0 38px 4px #fb196b44;"/>
+  </span>
 </p>
 
-
-
-<!-- ======================== ABOUT ME / HERO CARD ======================== -->
+<!-- ======================== HERO CARD / ABOUT ======================== -->
 <div align="center">
-
-<img src="https://img.shields.io/badge/Backend%20Engineer-%E2%9C%A8%20Infra%20Automator-00FFD8?style=for-the-badge&logo=github&logoColor=222c36&labelColor=232b377A&color=181c27"/><br><br>
-<b>
-  <span style="color:#23FFE2">
-    Building <span style="color:#fb196b;">robust backends</span> & automating workflows.<br>
-    <span style="color:#00DFFC;">Clean code</span>, <span style="color:#f2a900;">efficient ops</span>, future-ready products.<br>
-  </span>
-</b>
-<em>
-  <b>Backend · Automation · Cloud · Open Source</b>
-  <br/>
-  <a href="https://tamed29.dev">🌐 tamed29.dev</a> &nbsp;|&nbsp; 
-  <span>tamiratdereje@gmail.com</span>
-</em>
+  <img src="https://img.shields.io/badge/Backend%20Engineer-%E2%9C%A8%20Infra%20Automator-00FFD8?style=for-the-badge&logo=github&logoColor=222c36&labelColor=232b377A&color=181c27"/>
+  <br><br>
+  <b>
+    <span style="color:#23FFE2">
+      Building <span style="color:#fb196b;font-weight:bold;">robust backends</span> & automating workflows.
+      <br>
+      <span style="color:#00DFFC;">Clean code</span>, <span style="color:#f2a900;">efficient ops</span>, future-ready products.
+    </span>
+  </b>
+  <em>
+    <br><b>Backend · Automation · Cloud · Open Source</b>
+    <br/>
+    <a href="https://tamed29.dev">🌐 tamed29.dev</a> &nbsp;|&nbsp; <span>tamiratdereje@gmail.com</span>
+  </em>
 </div>
 
 <!-- ======================== SECTION SEPARATOR ======================== -->
 <p align="center">
-  <img src="./assets/tech-divider.svg.png" width="60%" alt="section divider"/>
+  <img src="./assets/tech-divider.svg.png" width="68%" alt="section divider" />
 </p>
 
 <!-- ======================== TECH STACK ======================== -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
-<p align="center">
+<p align="center" style="margin-top:-6px;">
   <img src="https://img.shields.io/badge/Python-181c27?style=for-the-badge&logo=python&logoColor=23FFE2"/>
   <img src="https://img.shields.io/badge/TypeScript-181c27?style=for-the-badge&logo=typescript&logoColor=f2a900"/>
   <img src="https://img.shields.io/badge/Node.js-181c27?style=for-the-badge&logo=node.js&logoColor=00FFD8"/>
@@ -64,44 +68,117 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-181c27?style=for-the-badge&logo=github-actions&logoColor=00FFD8"/>
 </p>
 
-
-<!-- ======================== SKILLS (Progress Bars) ======================== -->
+<!-- ======================== SKILLS SHOWCASE (PROGRESS BARS) ======================== -->
 <h2 align="center">📊 Skills Overview</h2>
-
 <p align="center">
-  <img src="./assets/skills-progress.svg.png" width="68%" alt="skills progress bars"/>
+  <img src="./assets/skills-progress.svg.png" width="75%" alt="Skills progress bars"/>
 </p>
-
 
 <!-- ======================== GITHUB DASHBOARD / ACTIVITY ======================== -->
-<p align="center" >
-  <!-- Profile details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamed29&theme=vision_friendly_dark" width="84%" />
-</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamed29&show_icons=true&theme=vision-friendly-dark&count_private=true&border_radius=16&hide_title=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamed29&theme=vision-friendly-dark&hide_border=false" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamed29&theme=vision_friendly_dark" width="88%"/>
+</p>
+<p align="center" style="margin-top:-18px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamed29&show_icons=true&theme=vision-friendly-dark&count_private=true&border_radius=16&hide_title=true" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamed29&theme=vision-friendly-dark&hide_border=false" height="175"/>
 </p>
 
-
-
-<!-- ======================== FEATURED PROJECTS ======================== -->
+<!-- ======================== MODERN FEATURED PROJECTS (PROFESSIONAL CARDS) ======================== -->
 <h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+  <!-- Card Container -->
+  <table>
+    <tr>
+      <!-- Project 1 -->
+      <td width="340" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=awesome-backend-starter&theme=vision-friendly-dark&show_owner=true" width="100%" />
+        <b style="font-size:1.13em; color:#00FFD8;">E-Commerce Platform</b><br>
+        <span style="color:#d8d8e0;">Full-stack modern online shopping system with payment integration and admin dashboard.</span>
+      </td>
+      <!-- Project 2 -->
+      <td width="340" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=automation-scripts&theme=vision-friendly-dark&show_owner=true" width="100%" />
+        <b style="font-size:1.13em; color:#fb196b;">AI Automation System</b><br>
+        <span style="color:#d8d8e0;">Backend automation tools for workflow optimization and process automation.</span>
+      </td>
+    </tr>
+    <tr>
+      <!-- Project 3 -->
+      <td width="340" valign="top">
+        <a href="https://github.com/tamed29/cloud-saas-dashboard">
+          <img src="./assets/cloud-saas-dashboard.svg" width="100%" alt="Cloud SaaS Dashboard (sample preview)"/>
+        </a>
+        <b style="font-size:1.13em; color:#f2a900;">Cloud SaaS Dashboard</b><br>
+        <span style="color:#d8d8e0;">Secure cloud-based analytics dashboard with real-time monitoring.</span>
+      </td>
+      <!-- Project 4 -->
+      <td width="340" valign="top">
+        <a href="https://github.com/tamed29/api-platform">
+          <img src="./assets/developer-api-platform.svg" width="100%" alt="Developer API Platform (sample preview)"/>
+        </a>
+        <b style="font-size:1.13em; color:#23FFE2;">Developer API Platform</b><br>
+        <span style="color:#d8d8e0;">REST API service with authentication, logging, and performance optimization.</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ======================== PROFESSIONAL PROJECTS / COMPLETED WORK ======================== -->
+<h2 align="center" style="color:#23FFE2;">
+  💼 Professional Projects & Completed Work
+</h2>
+<div align="center">
+  <table width="92%" align="center" style="border-spacing:18px;">
+    <tr>
+      <td style="background:rgba(35,47,63,0.92); border-radius:17px; padding:20px 20px; box-shadow:0 2px 28px 0 #1b1d20a8;" valign="top" width="32%">
+        <b style="color:#00FFD8; font-size:1.08em;">Wubet Amha Humanitarian Website</b><br>
+        <span style="color:#ececec;">Website for a humanitarian association in Arba Minch supporting community initiatives.</span>
+        <br><br>
+        <a href="https://wubet-amha.vercel.app/" style="color:#fb196b; text-decoration:none; font-weight:bold;" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-23FFE2?style=for-the-badge&logo=vercel&logoColor=232b37" alt="Visit project"/>
+        </a>
+      </td>
+      <td style="background:rgba(35,47,63,0.92); border-radius:17px; padding:20px 20px; box-shadow:0 2px 28px 0 #1b1d20a8;" valign="top" width="32%">
+        <b style="color:#fb196b; font-size:1.08em;">AMU Digital PC Registration System</b><br>
+        <span style="color:#ececec;">Digital PC registration and asset management system for Arba Minch University.</span>
+        <br><br>
+        <a href="https://amu-pc.vercel.app/" style="color:#00FFD8; text-decoration:none; font-weight:bold;" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-181c27?style=for-the-badge&logo=vercel&logoColor=00FFD8" alt="Visit project"/>
+        </a>
+      </td>
+      <td style="background:rgba(35,47,63,0.92); border-radius:17px; padding:20px 20px; box-shadow:0 2px 28px 0 #1b1d20a8;" valign="top" width="32%">
+        <b style="color:#f2a900; font-size:1.08em;">TypeBoost Typing Platform</b><br>
+        <span style="color:#ececec;">Interactive typing speed improvement platform with performance tracking.</span>
+        <br><br>
+        <a href="https://typeboost-iota.vercel.app/" style="color:#f2a900; text-decoration:none; font-weight:bold;" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-232b37?style=for-the-badge&logo=vercel&logoColor=f2a900" alt="Visit project"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ======================== SECTION SEPARATOR ======================== -->
 <p align="center">
-  <a href="https://github.com/tamed29/awesome-backend-starter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=awesome-backend-starter&theme=vision-friendly-dark&show_owner=true" width="345"/>
-  </a>
-  <a href="https://github.com/tamed29/automation-scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=automation-scripts&theme=vision-friendly-dark&show_owner=true" width="345"/>
-  </a>
+  <img src="./assets/tech-divider.svg.png" width="61%" alt="section divider" />
 </p>
 
- <h2 align="center">🏆 Achievements</h2> <p align="center">
-   <img src="https://img.shields.io/badge/🔥%2038-Day%20Streak-orange?style=for-the-badge&logo=github" /> 
- <img src="https://img.shields.io/badge/🟩%202000%2B%20Contributions-brightgreen?style=for-the-badge&logo=github"/>
-   <img src="https://img.shields.io/badge/💡%20Open%20Source%20Lover-181c27?style=for-the-badge&logo=github&logoColor=fb196b"/> 
-   <img src="https://img.shields.io/badge/%F0%9F%8B%9D%20Project%20Mentor-00FFD8?style=for-the-badge&logo=github"/> 
- </p> <p align="center"> <img src="./assets/achievement-banner.svg.png" width="70%" alt="Achievements banner" /> </p>
+<!-- ======================== ACHIEVEMENTS SECTION (MODERN BADGES) ======================== -->
+<h2 align="center">🏆 Achievements & Recognition</h2>
+<p align="center" style="margin-top:-4px;">
+  <img src="https://img.shields.io/badge/Built%20Production%20Apps-00FFD8?style=for-the-badge&logo=vercel&logoColor=181c27"/>
+  <img src="https://img.shields.io/badge/Deployed%20FullStack%20Systems-f2a900?style=for-the-badge&logo=github&logoColor=181c27"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-181c27?style=for-the-badge&logo=github&logoColor=fb196b"/>
+  <img src="https://img.shields.io/badge/Web%20Platform%20Developer-232b37?style=for-the-badge&logo=react&logoColor=23FFE2"/>
+  <img src="https://img.shields.io/badge/Automation%20Engineer-232b37?style=for-the-badge&logo=python&logoColor=00FFD8"/>
+  <img src="https://img.shields.io/badge/🔥%2038-Day%20Streak-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🟩%202000%2B%20Contributions-brightgreen?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/💡%20Open%20Source%20Lover-181c27?style=for-the-badge&logo=github&logoColor=fb196b"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8B%9D%20Project%20Mentor-00FFD8?style=for-the-badge&logo=github"/>
+</p>
+<p align="center">
+  <img src="./assets/achievement-banner.svg.png" width="65%" alt="Achievements banner" />
+</p>
 
 <!-- ======================== VISITOR COUNTER BADGE ======================== -->
 <p align="center">
@@ -112,35 +189,37 @@
 <h2 align="center">🤝 Connect & Links</h2>
 <p align="center">
   <a href="mailto:tamiratdereje@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-232b37?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/></a>
+    <img src="https://img.shields.io/badge/-Email-232b37?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/tamirat-dereje">
-    <img src="https://img.shields.io/badge/-LinkedIn-181c27?style=for-the-badge&logo=linkedin&logoColor=23FFE2" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/-LinkedIn-181c27?style=for-the-badge&logo=linkedin&logoColor=23FFE2" alt="LinkedIn"/>
+  </a>
   <a href="https://t.me/will_n0t">
-    <img src="https://img.shields.io/badge/-Telegram-181c27?style=for-the-badge&logo=telegram&logoColor=fb196b" alt="Telegram"/></a>
+    <img src="https://img.shields.io/badge/-Telegram-181c27?style=for-the-badge&logo=telegram&logoColor=fb196b" alt="Telegram"/>
+  </a>
   <a href="https://github.com/tamed29">
-    <img src="https://img.shields.io/badge/-GitHub-181c27?style=for-the-badge&logo=github&logoColor=f2a900" alt="GitHub"/></a>
+    <img src="https://img.shields.io/badge/-GitHub-181c27?style=for-the-badge&logo=github&logoColor=f2a900" alt="GitHub"/>
+  </a>
 </p>
-<!-- Add more if desired -->
 
 <!-- ======================== FOOTER / SIGNATURE MOTTO ======================== -->
-<hr width="65%" color="#232932" style="margin-bottom:8px;"/>
-
+<hr width="67%" color="#232932" style="margin-bottom:8px;"/>
 <p align="center">
-  <img src="./assets/footer_glass.svg.png" width="14%" style="opacity:0.86;"/><br>
+  <img src="./assets/footer_glass.svg.png" width="14%" style="opacity:0.89;"/>
+  <br>
   <i>"Code. Automate. Innovate. Every commit builds your future."</i>
   <br>
   <sub>© 2026 Tamirat Dereje &mdash; <a href="https://github.com/tamed29">tamed29</a></sub>
 </p>
 
-<!-- ======================== MAINTENANCE NOTES / THEMES ======================== -->
+<!-- ======================== README MAINTENANCE NOTES / THEME PALETTE ======================== -->
 <!--
-  ✏️ Edit tips:
-    – Change "awesome-backend-starter" and "automation-scripts" to any repos you want to feature. Add more <a>...</a> for additional projects.
-    – Section dividers, wave SVGs, and progress bars (SVGs) are hosted in /assets/ for fast loads and zero breakage.
-    – Shields.io badges: https://shields.io/category/build
-    – Want a visitor badge? https://komarev.com/ghpvc
-    – Contribution graph widget: https://github.com/Ashutosh00710/github-readme-activity-graph
-    – Advanced color palette (dark neon): 
-        #181c27, #232b37, #23FFE2, #fb196b, #f2a900, #00DFFC
-  All styles here render natively on GitHub (no CSS, no JS required).
+  ✏️ How to Edit:
+    – Swap in other repos for featured projects or cards.
+    – Project & asset SVGs/PNGs are in /assets/ for speed and reliability.
+    – Shields: https://shields.io/category/build
+    – Visitor badge: https://komarev.com/ghpvc
+    – Contribution graph: https://github.com/Ashutosh00710/github-readme-activity-graph
+    – Advanced color palette (dark neon): #181c27, #232b37, #23FFE2, #fb196b, #f2a900, #00DFFC
+    – All styles fully GitHub-renderable! No custom CSS/JS.
 -->
