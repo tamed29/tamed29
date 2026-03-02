@@ -22,10 +22,7 @@
     alt="Tamirat Dereje profile photo"/>
 </p>
 
-<!-- Wave separator -->
-<p align="center">
-  <img src="./assets/wave-separator.svg." width="84%" alt="wave separator"/>
-</p>
+
 
 <!-- ======================== ABOUT ME / HERO CARD ======================== -->
 <div align="center">
