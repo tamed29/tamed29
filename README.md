@@ -179,9 +179,9 @@
 
 <!-- ======================== ACHIEVEMENTS SECTION (MODERN BADGES) ======================== -->
 <h2 align="center">🏆 Achievements & Recognition</h2>
-<hr width="67%" color="#232932" style="margin-bottom:8px;"/>
+<hr width="77%" color="#232932" style="margin-bottom:8px;"/>
 <p align="center">
-  <img src="./assets/achievement-banner.svg.png" width="14%" style="opacity:0.89;"/>
+  <img src="./assets/achievement-banner.svg.png" width="24%" style="opacity:0.99;"/>
 <p align="center" style="margin-top:-4px;">
   <img src="https://img.shields.io/badge/Built%20Production%20Apps-00FFD8?style=for-the-badge&logo=vercel&logoColor=181c27"/>
   <img src="https://img.shields.io/badge/Deployed%20FullStack%20Systems-f2a900?style=for-the-badge&logo=github&logoColor=181c27"/>
