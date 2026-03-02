@@ -80,14 +80,6 @@
 </p>
 
 <!-- Text fallback in case SVG fails -->
-<p align="center">
-  Python &nbsp;&nbsp;███████████████▉ 90%<br>
-  TypeScript &nbsp;&nbsp;█████████████▏ 80%<br>
-  Backend &nbsp;&nbsp;███████████████▉ 95%<br>
-  Automation &nbsp;&nbsp;█████████████▍ 85%<br>
-  Web (React) &nbsp;&nbsp;███████████▋ 70%<br>
-  DevOps &nbsp;&nbsp;██████████▌ 60%
-</p>
 
 <!-- ======================== GITHUB DASHBOARD / ACTIVITY ======================== -->
 <p align="center" >
@@ -109,7 +101,7 @@
 
 <!-- Wave separator -->
 <p align="center">
-  <img src="./assets/wave-separator.svg.png" width="60%" alt="projects wave separator"/>
+  <img src="./assets/wave-separator.svg." width="60%" alt="projects wave separator"/>
 </p>
 
 <!-- ======================== FEATURED PROJECTS ======================== -->
