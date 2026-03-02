@@ -17,7 +17,7 @@
 
 <p align="center">
   <!-- Profile photo inside neon ring (GH hosted, for reliability) -->
-  <img src="./assets/profile-neon.svg.png"
+  <img src="./assets/profile-neon.png"
     width="130" height="130"
     alt="Tamirat Dereje profile photo"/>
 </p>
