@@ -67,10 +67,7 @@
   </em>
 </div>
 
-<!-- ======================== SECTION SEPARATOR ======================== -->
-<p align="center">
-  <img src="./assets/tech-divider.svg.png" width="68%" alt="section divider" />
-</p>
+
 
 <!-- ======================== TECH STACK ======================== -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
@@ -182,6 +179,10 @@
 
 <!-- ======================== ACHIEVEMENTS SECTION (MODERN BADGES) ======================== -->
 <h2 align="center">🏆 Achievements & Recognition</h2>
+</p>
+<p align="center">
+  <img src="./assets/achievement-banner.svg.png" width="65%" alt="Achievements banner" />
+</p>
 <p align="center" style="margin-top:-4px;">
   <img src="https://img.shields.io/badge/Built%20Production%20Apps-00FFD8?style=for-the-badge&logo=vercel&logoColor=181c27"/>
   <img src="https://img.shields.io/badge/Deployed%20FullStack%20Systems-f2a900?style=for-the-badge&logo=github&logoColor=181c27"/>
@@ -192,10 +193,7 @@
   <img src="https://img.shields.io/badge/🟩%202000%2B%20Contributions-brightgreen?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/💡%20Open%20Source%20Lover-181c27?style=for-the-badge&logo=github&logoColor=fb196b"/>
   <img src="https://img.shields.io/badge/%F0%9F%8B%9D%20Project%20Mentor-00FFD8?style=for-the-badge&logo=github"/>
-</p>
-<p align="center">
-  <img src="./assets/achievement-banner.svg.png" width="65%" alt="Achievements banner" />
-</p>
+
 
 <!-- ======================== VISITOR COUNTER BADGE ======================== -->
 <p align="center">
