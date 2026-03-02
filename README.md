@@ -17,14 +17,14 @@
 
 <p align="center">
   <!-- Profile photo inside neon ring (GH hosted, for reliability) -->
-  <img src="./assets/profile-neon.png"
+  <img src="./assets/profile-neon.svg.png"
     width="130" height="130"
     alt="Tamirat Dereje profile photo"/>
 </p>
 
 <!-- Wave separator -->
 <p align="center">
-  <img src="./assets/wave-separator.svg" width="84%" alt="wave separator"/>
+  <img src="./assets/wave-separator.svg.png" width="84%" alt="wave separator"/>
 </p>
 
 <!-- ======================== ABOUT ME / HERO CARD ======================== -->
