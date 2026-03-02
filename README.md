@@ -67,10 +67,6 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-181c27?style=for-the-badge&logo=github-actions&logoColor=00FFD8"/>
 </p>
 
-<!-- ======================== WAVY SEPARATOR ======================== -->
-<p align="center">
-  <img src="./assets/wave-separator.svg." width="70%" alt="section divider"/>
-</p>
 
 <!-- ======================== SKILLS (Progress Bars) ======================== -->
 <h2 align="center">📊 Skills Overview</h2>
@@ -79,7 +75,6 @@
   <img src="./assets/skills-progress.svg.png" width="68%" alt="skills progress bars"/>
 </p>
 
-<!-- Text fallback in case SVG fails -->
 
 <!-- ======================== GITHUB DASHBOARD / ACTIVITY ======================== -->
 <p align="center" >
