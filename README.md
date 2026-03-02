@@ -12,19 +12,40 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3550&pause=800&color=00FFD8FF&background=00000000&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Tamirat+Dereje;Senior+Backend+%F0%9F%94%A5+Automation+Engineer;Builder+of+Efficient+Backend+Tools;Code.+Automate.+Innovate." alt="Animated typing introduction by Tamirat Dereje" width="92%"/>
 </p>
 
-<!-- ======================== PROFILE IMAGE (CIRCULAR NEON GLOW) ======================== -->
+<!-- ======================== PROFILE IMAGE (PERFECT CIRCLE, NEON GLOW) ======================== -->
 <p align="center">
-  <!-- Neon circular profile with inline SVG for perfect glow (GitHub-compatible) -->
-  <span style="display: inline-block; border-radius: 50%; background: linear-gradient(120deg, #23FFE2 10%, #fb196b 90%); padding: 5px; margin-bottom: 8px;">
+  <!-- 
+    Uses inline SVG for best glow effect and ensures perfect circle.
+    Styles kept within 'style' attribute for GitHub Markdown compatibility.
+  -->
+  <span style="display: inline-block; border-radius: 50%; background: none; position: relative;">
+    <svg width="162" height="162" viewBox="0 0 162 162" style="position:absolute;top:0;left:0;z-index:0;" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <radialGradient id="neonGradient" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#23FFE2" stop-opacity="0.66" />
+          <stop offset="70%" stop-color="#23FFE2" stop-opacity="0.46" />
+          <stop offset="90%" stop-color="#fb196b" stop-opacity="0.36" />
+          <stop offset="100%" stop-color="#232b37" stop-opacity="0.15" />
+          <stop offset="100%" stop-color="transparent" stop-opacity="0"/>
+        </radialGradient>
+      </defs>
+      <circle cx="81" cy="81" r="78" fill="none" stroke="url(#neonGradient)" stroke-width="6"/>
+    </svg>
     <img src="./assets/profile-neon.png.jpg"
       alt="Tamirat Dereje Profile Photo"
-      width="135" height="135"
+      width="150" height="150"
       style="
+        position:relative; 
+        z-index:1;
         display: block;
+        margin: 6px auto 0 auto;
         border-radius: 50%;
         border: 4px solid #232b37; 
         background: #181c27;
-        box-shadow: 0 0 18px 4px #00ffd855, 0 0 38px 4px #fb196b44;"/>
+        box-shadow: 0 0 28px 6px #23FFE277, 0 0 64px 8px #fb196b66;
+        object-fit: cover;
+        aspect-ratio:1/1;
+      "/>
   </span>
 </p>
 
@@ -89,13 +110,11 @@
   <!-- Card Container -->
   <table>
     <tr>
-      <!-- Project 1 -->
       <td width="340" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=awesome-backend-starter&theme=vision-friendly-dark&show_owner=true" width="100%" />
         <b style="font-size:1.13em; color:#00FFD8;">E-Commerce Platform</b><br>
         <span style="color:#d8d8e0;">Full-stack modern online shopping system with payment integration and admin dashboard.</span>
       </td>
-      <!-- Project 2 -->
       <td width="340" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=automation-scripts&theme=vision-friendly-dark&show_owner=true" width="100%" />
         <b style="font-size:1.13em; color:#fb196b;">AI Automation System</b><br>
@@ -103,17 +122,15 @@
       </td>
     </tr>
     <tr>
-      <!-- Project 3 -->
       <td width="340" valign="top">
-        <a href="https://github.com/tamed29/cloud-saas-dashboard">
+        <a href="https://github.com/tamed29/cloud-saas-dashboard" target="_blank">
           <img src="./assets/cloud-saas-dashboard.svg" width="100%" alt="Cloud SaaS Dashboard (sample preview)"/>
         </a>
         <b style="font-size:1.13em; color:#f2a900;">Cloud SaaS Dashboard</b><br>
         <span style="color:#d8d8e0;">Secure cloud-based analytics dashboard with real-time monitoring.</span>
       </td>
-      <!-- Project 4 -->
       <td width="340" valign="top">
-        <a href="https://github.com/tamed29/api-platform">
+        <a href="https://github.com/tamed29/api-platform" target="_blank">
           <img src="./assets/developer-api-platform.svg" width="100%" alt="Developer API Platform (sample preview)"/>
         </a>
         <b style="font-size:1.13em; color:#23FFE2;">Developer API Platform</b><br>
@@ -123,34 +140,34 @@
   </table>
 </div>
 
-<!-- ======================== PROFESSIONAL PROJECTS / COMPLETED WORK ======================== -->
+<!-- ======================== PROFESSIONAL PROJECTS / COMPLETED WORK (EQUAL CARD HEIGHTS & BUTTONS) ======================== -->
 <h2 align="center" style="color:#23FFE2;">
   💼 Professional Projects & Completed Work
 </h2>
 <div align="center">
-  <table width="92%" align="center" style="border-spacing:18px;">
+  <table width="95%" align="center" style="border-spacing:18px;">
     <tr>
-      <td style="background:rgba(35,47,63,0.92); border-radius:17px; padding:20px 20px; box-shadow:0 2px 28px 0 #1b1d20a8;" valign="top" width="32%">
+      <td style="background:rgba(35,47,63,0.92); border-radius:17px; padding:20px 20px; box-shadow:0 2px 28px 0 #1b1d20a8; vertical-align:top; min-width:290px; min-height:230px;" valign="top" width="33%">
         <b style="color:#00FFD8; font-size:1.08em;">Wubet Amha Humanitarian Website</b><br>
         <span style="color:#ececec;">Website for a humanitarian association in Arba Minch supporting community initiatives.</span>
         <br><br>
-        <a href="https://wubet-amha.vercel.app/" style="color:#fb196b; text-decoration:none; font-weight:bold;" target="_blank">
+        <a href="https://wubet-amha.vercel.app/" target="_blank" rel="noopener noreferrer" style="color:#fb196b; text-decoration:none; font-weight:bold;display:inline-block;">
           <img src="https://img.shields.io/badge/View%20Project-23FFE2?style=for-the-badge&logo=vercel&logoColor=232b37" alt="Visit project"/>
         </a>
       </td>
-      <td style="background:rgba(35,47,63,0.92); border-radius:17px; padding:20px 20px; box-shadow:0 2px 28px 0 #1b1d20a8;" valign="top" width="32%">
+      <td style="background:rgba(35,47,63,0.92); border-radius:17px; padding:20px 20px; box-shadow:0 2px 28px 0 #1b1d20a8; vertical-align:top; min-width:290px; min-height:230px;" valign="top" width="33%">
         <b style="color:#fb196b; font-size:1.08em;">AMU Digital PC Registration System</b><br>
         <span style="color:#ececec;">Digital PC registration and asset management system for Arba Minch University.</span>
         <br><br>
-        <a href="https://amu-pc.vercel.app/" style="color:#00FFD8; text-decoration:none; font-weight:bold;" target="_blank">
+        <a href="https://amu-pc.vercel.app/" target="_blank" rel="noopener noreferrer" style="color:#00FFD8; text-decoration:none; font-weight:bold;display:inline-block;">
           <img src="https://img.shields.io/badge/View%20Project-181c27?style=for-the-badge&logo=vercel&logoColor=00FFD8" alt="Visit project"/>
         </a>
       </td>
-      <td style="background:rgba(35,47,63,0.92); border-radius:17px; padding:20px 20px; box-shadow:0 2px 28px 0 #1b1d20a8;" valign="top" width="32%">
+      <td style="background:rgba(35,47,63,0.92); border-radius:17px; padding:20px 20px; box-shadow:0 2px 28px 0 #1b1d20a8; vertical-align:top; min-width:290px; min-height:230px;" valign="top" width="33%">
         <b style="color:#f2a900; font-size:1.08em;">TypeBoost Typing Platform</b><br>
         <span style="color:#ececec;">Interactive typing speed improvement platform with performance tracking.</span>
         <br><br>
-        <a href="https://typeboost-iota.vercel.app/" style="color:#f2a900; text-decoration:none; font-weight:bold;" target="_blank">
+        <a href="https://typeboost-iota.vercel.app/" target="_blank" rel="noopener noreferrer" style="color:#f2a900; text-decoration:none; font-weight:bold;display:inline-block;">
           <img src="https://img.shields.io/badge/View%20Project-232b37?style=for-the-badge&logo=vercel&logoColor=f2a900" alt="Visit project"/>
         </a>
       </td>
