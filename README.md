@@ -132,7 +132,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%8B%9D%20Project%20Mentor-00FFD8?style=for-the-badge&logo=github"/>
 </p>
 <p align="center">
-  <img src="./assets/achievement-banner.svg" width="70%" alt="Achievements banner" />
+  <img src=".assets/achievement-banner.svg" width="70%" alt="Achievements banner" />
 </p>
 
 <!-- ======================== VISITOR COUNTER BADGE ======================== -->
