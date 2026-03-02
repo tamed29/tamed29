@@ -169,9 +169,3 @@ DevOps       ███████████       60%
 
 ```
 
-**Notes/How to Use:**
-- Replace `/assets/` SVGs/GIFs with your custom animated SVGs (for separators, skill bars, banners; use [SVG makers](https://haikei.app/) or draw in Figma/export).
-- "Featured Projects" section: Paste your own repositories, use GitHub's pin stats SVG as shown.
-- Theme suggestions: try "vision-friendly-dark", "radical", or "onestar" for your stats cards—these work great with neon/glassy styles.
-- Editing: Comments (between `<!-- ... -->`) are invisible on GitHub, and help you maintain the README.
-- For more advanced visualizations, you can experiment with dynamic shields, animated SVGs, and external badge generators.
