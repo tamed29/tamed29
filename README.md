@@ -131,7 +131,7 @@
 <hr width="65%" color="#232932" style="margin-bottom:8px;"/>
 
 <p align="center">
-  <img src="./assets/footer_glass.svg" width="14%" style="opacity:0.86;"/><br>
+  <img src="./assets/footer_glass.svg.png" width="14%" style="opacity:0.86;"/><br>
   <i>"Code. Automate. Innovate. Every commit builds your future."</i>
   <br>
   <sub>© 2026 Tamirat Dereje &mdash; <a href="https://github.com/tamed29">tamed29</a></sub>
