@@ -179,10 +179,9 @@
 
 <!-- ======================== ACHIEVEMENTS SECTION (MODERN BADGES) ======================== -->
 <h2 align="center">🏆 Achievements & Recognition</h2>
-</p>
+<hr width="67%" color="#232932" style="margin-bottom:8px;"/>
 <p align="center">
-  <img src="./assets/achievement-banner.svg.png" width="65%" alt="Achievements banner" />
-</p>
+  <img src="./assets/achievement-banner.svg.png" width="14%" style="opacity:0.89;"/>
 <p align="center" style="margin-top:-4px;">
   <img src="https://img.shields.io/badge/Built%20Production%20Apps-00FFD8?style=for-the-badge&logo=vercel&logoColor=181c27"/>
   <img src="https://img.shields.io/badge/Deployed%20FullStack%20Systems-f2a900?style=for-the-badge&logo=github&logoColor=181c27"/>
@@ -227,14 +226,3 @@
   <sub>© 2026 Tamirat Dereje &mdash; <a href="https://github.com/tamed29">tamed29</a></sub>
 </p>
 
-<!-- ======================== README MAINTENANCE NOTES / THEME PALETTE ======================== -->
-<!--
-  ✏️ How to Edit:
-    – Swap in other repos for featured projects or cards.
-    – Project & asset SVGs/PNGs are in /assets/ for speed and reliability.
-    – Shields: https://shields.io/category/build
-    – Visitor badge: https://komarev.com/ghpvc
-    – Contribution graph: https://github.com/Ashutosh00710/github-readme-activity-graph
-    – Advanced color palette (dark neon): #181c27, #232b37, #23FFE2, #fb196b, #f2a900, #00DFFC
-    – All styles fully GitHub-renderable! No custom CSS/JS.
--->
