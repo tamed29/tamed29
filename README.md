@@ -9,7 +9,7 @@
 <!-- ======================== HERO / INTRO ======================== -->
 <p align="center">
   <!-- Animated Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3550&pause=800&color=00FFD8FF&background=00000000&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Tamirat+Dereje;Senior+Backend+%F0%9F%94%A5+Automation+Engineer;Builder+of+Efficient+Backend+Tools;Code.+Automate.+Innovate." alt="Animated typing introduction by Tamirat Dereje" width="92%"/>
+  <img src="https://readme-typing-svg.demolab.comfont=Fira+Code&weight=600&size=38&duration=3550&pause=800&color=00FFD8FF&background=00000000&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Tamirat+Dereje;Senior+Backend+%F0%9F%94%A5+Automation+Engineer;Builder+of+Efficient+Backend+Tools;Code.+Automate.+Innovate." alt="Animated typing introduction by Tamirat Dereje" width="92%"/>
 </p>
 
 <!-- ======================== PROFILE IMAGE (PERFECT CIRCLE, NEON GLOW) ======================== -->
