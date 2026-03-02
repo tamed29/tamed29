@@ -105,12 +105,12 @@
   <table>
     <tr>
       <td width="340" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=awesome-backend-starter&theme=vision-friendly-dark&show_owner=true" width="100%" />
+       <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=awesome-backend-starter&theme=vision-friendly-dark&show_owner=true" width="100%" />-->
         <b style="font-size:1.13em; color:#00FFD8;">E-Commerce Platform</b><br>
         <span style="color:#d8d8e0;">Full-stack modern online shopping system with payment integration and admin dashboard.</span>
       </td>
       <td width="340" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=automation-scripts&theme=vision-friendly-dark&show_owner=true" width="100%" />
+       <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=automation-scripts&theme=vision-friendly-dark&show_owner=true" width="100%" />-->
         <b style="font-size:1.13em; color:#fb196b;">AI Automation System</b><br>
         <span style="color:#d8d8e0;">Backend automation tools for workflow optimization and process automation.</span>
       </td>
@@ -118,14 +118,14 @@
     <tr>
       <td width="340" valign="top">
         <a href="https://github.com/tamed29/cloud-saas-dashboard" target="_blank">
-          <img src="./assets/cloud-saas-dashboard.svg" width="100%" alt="Cloud SaaS Dashboard (sample preview)"/>
+         <!-- <img src="./assets/cloud-saas-dashboard.svg" width="100%" alt="Cloud SaaS Dashboard (sample preview)"/>-->
         </a>
         <b style="font-size:1.13em; color:#f2a900;">Cloud SaaS Dashboard</b><br>
         <span style="color:#d8d8e0;">Secure cloud-based analytics dashboard with real-time monitoring.</span>
       </td>
       <td width="340" valign="top">
         <a href="https://github.com/tamed29/api-platform" target="_blank">
-          <img src="./assets/developer-api-platform.svg" width="100%" alt="Developer API Platform (sample preview)"/>
+         <!-- <img src="./assets/developer-api-platform.svg" width="100%" alt="Developer API Platform (sample preview)"/>-->
         </a>
         <b style="font-size:1.13em; color:#23FFE2;">Developer API Platform</b><br>
         <span style="color:#d8d8e0;">REST API service with authentication, logging, and performance optimization.</span>
