@@ -106,10 +106,7 @@
   <img src="https://img.shields.io/badge/🟩%202000%2B%20Contributions-brightgreen?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/💡%20Open%20Source%20Lover-181c27?style=for-the-badge&logo=github&logoColor=fb196b"/>
   <img src="https://img.shields.io/badge/%F0%9F%8B%9D%20Project%20Mentor-00FFD8?style=for-the-badge&logo=github"/>
-</p>
-<p align="center">
-  <img src=".assets/achievement-banner.svg.png" width="70%" alt="Achievements banner" />
-</p>
+
 
 <!-- ======================== VISITOR COUNTER BADGE ======================== -->
 <p align="center">
