@@ -159,9 +159,9 @@
       </td>
       <td style="background:rgba(35,47,63,0.92); border-radius:17px; padding:20px 20px; box-shadow:0 2px 28px 0 #1b1d20a8; vertical-align:top; min-width:290px; min-height:230px;" valign="top" width="33%">
         <b style="color:#f2a900; font-size:1.08em;">TypeBoost Typing Platform</b><br>
-        <span style="color:#ececec;">Interactive typing speed improvement platform with performance tracking eficiently.</span>
-        <br><br>
-         <a href="https://amu-pc.vercel.app/" target="_blank" rel="noopener noreferrer" style="color:#fb196b; text-decoration:none; font-weight:bold;display:inline-block;">
+        <span style="color:#ececec;">Interactive typing speed improvement platform with performance tracking .</span>
+        <br><br><br>
+         <a href="[https://amu-pc.vercel.app/](https://typeboost-iota.vercel.app/)" target="_blank" rel="noopener noreferrer" style="color:#fb196b; text-decoration:none; font-weight:bold;display:inline-block;">
           <img src="https://img.shields.io/badge/View%20Project-23FFE2?style=for-the-badge&logo=vercel&logoColor=232b37" alt="Visit project"/>
         </a>
       </td>
