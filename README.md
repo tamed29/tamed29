@@ -1,6 +1,6 @@
 <!-- 
-  🟦 Ultimate Pro  GitHub Profile README for Tamirat Dereje (tamed29)
-  - Ultra-modern, dark/neon glassy UI, 100% GitHub-renderable (Markdown+HTML+SVG only).
+  🟦 Ultimate Pro GitHub Profile README for Tamirat Dereje (tamed29)
+  - Ultra-modern,dark/neon glassy UI, 100% GitHub-renderable (Markdown+HTML+SVG only).
   - No broken images: all assets self-hosted or SVG.
   - Pixel-perfect spacing, ultimate typography, section comments for editability.
   - Production-level, senior portfolio design!
@@ -63,8 +63,6 @@
     <a href="https://tamed29.dev">🌐 tamed29.dev</a> &nbsp;|&nbsp; <span>tamiratdereje@gmail.com</span>
   </em>
 </div>
-
-
 
 <!-- ======================== TECH STACK ======================== -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
