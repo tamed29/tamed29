@@ -13,7 +13,7 @@
 <p align="center">
   <!-- 
     Uses inline SVG for best glow effect and ensures perfect circle.
-    Styles kept within 'style' attribute for GitHub Markdown compatibility.
+    Styles kept within 'style' attribute for  GitHub Markdown compatibility.
   -->
   <span style="display: inline-block; border-radius: 50%; background: none; position: relative;">
     <svg width="162" height="162" viewBox="0 0 162 162" style="position:absolute;top:0;left:0;z-index:0;" xmlns="http://www.w3.org/2000/svg">
