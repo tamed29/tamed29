@@ -87,7 +87,7 @@
   <img src="./assets/skills-progress.svg.png" width="75%" alt="Skills progress bars"/>
 </p>
 
-<!-- ======================== GITHUB DASHBOARD / ACTIVITY ======================== -->
+<!-- ======================== GITHUB DASHBOARD / ACTIVITY ========================= -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamed29&theme=vision_friendly_dark" width="88%"/>
 </p>
