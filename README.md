@@ -24,7 +24,7 @@
           <stop offset="90%" stop-color="#fb196b" stop-opacity="0.36" />
           <stop offset="100%" stop-color="#232b37" stop-opacity="0.15" />
           <stop offset="100%" stop-color="transparent" stop-opacity="0"/>
-        </radialGradient>
+        </radialGradient >
       </defs>
       <circle cx="81" cy="81" r="78" fill="none" stroke="url(#neonGradient)" stroke-width="6"/>
     </svg>
