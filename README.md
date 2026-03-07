@@ -88,9 +88,7 @@
 </p>
 
 <!-- ======================== GITHUB DASHBOARD / ACTIVITY ========================= -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamed29&theme=vision_friendly_dark" width="88%"/>
-</p>
+
 <p align="center" style="margin-top:-18px;">
   <img src="https://github-readme-stats.vercel.app/api?username=tamed29&show_icons=true&theme=vision-friendly-dark&count_private=true&border_radius=16&hide_title=true" height="175"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamed29&theme=vision-friendly-dark&hide_border=false" height="175"/>
