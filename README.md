@@ -60,7 +60,7 @@
   <em>
     <br><b>Backend · Automation · Cloud · Open Source</b>
     <br/>
-    <a href="https://tamirat-chi.vercel.app/">portifolio</a> &nbsp;|&nbsp; <span>tamiratdereje@gmail.com</span>
+    <a href="https://tamirat-chi.vercel.app/">my-portifolio</a> &nbsp;|&nbsp; <span>tamiratdereje@gmail.com</span>
   </em>
 </div>
 
