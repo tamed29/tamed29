@@ -89,13 +89,13 @@
 
 <!-- ======================== GITHUB DASHBOARD / ACTIVITY ========================= -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamed29&theme=vision_friendly_dark" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamed29&theme=vision_friendly_dark" width="88%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamed29&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true&border_radius=12" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamed29&theme=vision-friendly-dark&hide_border=true&border_radius=12" height="180"/>
+<p align="center" style="margin-top:-18px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamed29&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true&border_radius=16&hide_title=true&cache_seconds=1800" height="175"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamed29&theme=vision-friendly-dark&hide_border=false&cache_seconds=1800" height="175"/>
 </p>
 <!-- ======================== MODERN FEATURED PROJECTS (PROFESSIONAL CARDS) ======================== -->
 <h2 align="center">🚀 Featured Projects</h2>
