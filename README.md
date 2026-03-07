@@ -105,7 +105,7 @@
     <tr>
       <td width="340" valign="top">
        <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamed29&repo=awesome-backend-starter&theme=vision-friendly-dark&show_owner=true" width="100%" />-->
-        <b style="font-size:1.13em; color:#00FFD8;">E-Commerce Platform</b><br>
+        <b style="font-size:1.13em; color:#00FFD8;">E-Commerce  Platform</b><br>
         <span style="color:#d8d8e0;">Full-stack modern online shopping system with payment integration and admin dashboard.</span>
       </td>
       <td width="340" valign="top">
