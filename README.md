@@ -2,7 +2,7 @@
   🟦 Ultimate Pro GitHub Profile README for Tamirat Dereje (tamed29)
   - Ultra-modern,dark/neon glassy UI, 100%  GitHub-renderable (Markdown+HTML+SVG only).
   - No broken images: all assets self-hosted or SVG.
-  - Pixel-perfect spacing, ultimate typography, section comments for editability.
+  - Pixel-perfect spacing, ultimate typography, section comments for  editability.
   - Production-level,  senior portfolio design!
 -->
 
