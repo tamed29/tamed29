@@ -5,7 +5,7 @@
 <!-- ======================== PROFILE IMAGE (PERFECT CIRCLE, NEON GLOW) ======================== -->
 <p align="center">
   <!-- 
-    Uses inline SVG for best glow effect and ensures perfect circle.
+    Uses inline SVG for best glow effect and ensures perfect c ircle.
     Styles kept within 'style' attribute for  GitHub Markdown compatibility.
   -->
   <span style="display: inline-block; border-radius: 50%; background: none; position: relative;">
