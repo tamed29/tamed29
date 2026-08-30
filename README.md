@@ -1,6 +1,6 @@
                
 <!-- ======================== HERO / INTRO   ========================      -->     
-<p align="center"> <!-- Animated Typing Banner: Fira Code, neon blue --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3550&pause=800&color=00FFD8FF&background=00000000&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Tamirat+Dereje;fullstack +%F0%9F%94%A5+AI+Engineer;Builder+of+Efficient+Software+System;Code.+Automate.+Innovate." alt="Animated typing introduction by Tamirat Dereje" width="88%" /> </p>
+<p align="center"> <!-- Animated Typing Banner: Fira Code, neon blue --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3550&pause=800&color=00FFD8FF&background=00000000&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Tamirat+Dereje;Robust +%F0%9F%94%A5+AI+Engineer;Builder+of+Efficient+Software+System;Code.+Automate.+Innovate." alt="Animated typing introduction by Tamirat Dereje" width="88%" /> </p>
  
 <!-- ======================== PROFILE IMAGE (PERFECT CIRCLE, NEON GLOW) ======================== -->
 <p align="center">   
