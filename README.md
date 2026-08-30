@@ -45,13 +45,13 @@
   <br><br>
   <b>
     <span style="color:#23FFE2">
-      Building <span style="color:#fb196b;font-weight:bold;">robust backends</span> & automating workflows.
+      Building <span style="color:#fb196b;font-weight:bold;">robust Software</span> & automating workflows.
       <br>
       <span style="color:#00DFFC;">Clean code</span>, <span style="color:#f2a900;">efficient ops</span>, future-ready products.
     </span>
   </b>
   <em>
-    <br><b>Backend · Automation · Cloud · Open Source</b>
+    <br><b>· AI · Cloud · Open Source</b>
     <br/>
     <br>
     <a href="https://tamirat-chi.vercel.app/">my-portifolio</a> &nbsp;|&nbsp; <span>tamiratdereje@gmail.com</span>
