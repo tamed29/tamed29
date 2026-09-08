@@ -6,7 +6,7 @@
 
 <!-- ======================== ANIMATED DEVELOPER CODING SETUP ======================== -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480" alt="AI & Software Engineer Station" style="border-radius:18px; border:2px solid #fb196b44; box-shadow:0 0 30px rgba(251,25,107,0.25);" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Full-Stack & AI Developer Coding" style="border-radius: 16px; border: 2px solid #23FFE244; box-shadow: 0 0 25px rgba(0, 255, 216, 0.35);" />
 </p>
 
 <!-- ======================== HERO CARD / ABOUT ======================== -->
