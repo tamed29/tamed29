@@ -1,9 +1,8 @@
 <!-- ======================== HERO / INTRO ======================== -->
 <p align="center">
   <!-- Animated Typing Banner: Rotating Full-Stack, AI & ML Titles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=800&color=00FFD8&background=00000000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Tamirat+Dereje;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Building+Intelligent+Full-Stack+Systems;Code.+Automate.+Innovate." alt="Animated typing introduction by Tamirat Dereje" width="88%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=800&color=00FFD8&background=00000000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Tamirat+Dereje;Software+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Building+Intelligent+Full-Stack+Systems;Code.+Automate.+Innovate." alt="Animated typing introduction by Tamirat Dereje" width="88%" />
 </p>
-
 <!-- ======================== ANIMATED DEVELOPER CODING SETUP ======================== -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Full-Stack & AI Developer Coding" style="border-radius: 16px; border: 2px solid #23FFE244; box-shadow: 0 0 25px rgba(0, 255, 216, 0.35);" />
