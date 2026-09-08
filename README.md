@@ -6,7 +6,7 @@
 
 <!-- ======================== ANIMATED DEVELOPER CODING SETUP ======================== -->
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-working-on-project-illustration-download-in-svg-png-gif-file-formats--software-programming-man-office-desk-pack-business-illustrations-6490338.png" width="340" alt="Full-Stack & AI Developer at Desk" style="border-radius:18px; filter: drop-shadow(0px 0px 22px #00FFD866);" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Full-Stack & AI Developer Coding" style="border-radius: 16px; border: 2px solid #23FFE244; box-shadow: 0 0 25px rgba(0, 255, 216, 0.35);" />
 </p>
 
 <!-- ======================== HERO CARD / ABOUT ======================== -->
