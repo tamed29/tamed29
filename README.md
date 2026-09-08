@@ -6,7 +6,7 @@
 
 <!-- ======================== ANIMATED DEVELOPER CODING SETUP ======================== -->
 <p align="center">
- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360" alt="Developer at Desk" style="border-radius:16px;" />
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="370" alt="Full-Stack & AI Engineer at Desk" style="border-radius:18px; border:2px solid #23FFE244; box-shadow:0 0 30px rgba(0,255,216,0.3);" />
 </p>
 
 <!-- ======================== HERO CARD / ABOUT ======================== -->
