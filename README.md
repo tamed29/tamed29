@@ -6,7 +6,7 @@
 
 <!-- ======================== ANIMATED DEVELOPER CODING SETUP ======================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Full-Stack & AI Developer Coding" style="border-radius: 16px; border: 2px solid #23FFE244; box-shadow: 0 0 25px rgba(0, 255, 216, 0.35);" />
+ <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="380" alt="Developer Coding" style="border-radius:16px;" />
 </p>
 
 <!-- ======================== HERO CARD / ABOUT ======================== -->
